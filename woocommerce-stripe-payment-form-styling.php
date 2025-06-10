@@ -9,6 +9,9 @@
  * - https://docs.stripe.com/elements/appearance-api
  * 
  * Requirements: WooCommerce Stripe Gateway 8.1.0+
+ * 
+ * AI Assistance: This code was developed with assistance from Claude (Anthropic)
+ * based on official documentation analysis and testing.
  */
 
 add_filter( 'wc_stripe_upe_params', function ( $stripe_params ) {
