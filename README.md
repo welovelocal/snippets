@@ -1,0 +1,2 @@
+# snippets
+Helpful WooCommerce Snippets
