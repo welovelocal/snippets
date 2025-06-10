@@ -20,6 +20,10 @@ Fixes the unstyled appearance of WooCommerce's new Stripe checkout experience by
 3. Customize the variables to match your brand
 4. Test thoroughly before deploying to production
 
+## 🤖 AI Development
+
+These snippets were developed with assistance from Claude (Anthropic) through analysis of official documentation and iterative testing. All code follows established best practices and uses only officially supported APIs.
+
 ## 🤝 Contributing
 
 Found a bug or have an improvement? Feel free to open an issue or submit a pull request.
