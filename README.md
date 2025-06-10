@@ -7,6 +7,8 @@ A collection of practical WooCommerce code snippets to solve common e-commerce c
 ### Stripe Payment Form Styling
 Fixes the unstyled appearance of WooCommerce's new Stripe checkout experience by applying custom branding using Stripe's Elements Appearance API.
 
+![CleanShot 2025-06-10 at 16 46 06@2x](https://github.com/user-attachments/assets/331a5370-29e1-47da-84f0-6e26546b346c)
+
 **Problem Solved:** Stripe discontinued their legacy checkout, leaving the new forms completely unstyled and unprofessional-looking.
 
 **File:** `stripe-payment-form-styling.php`
